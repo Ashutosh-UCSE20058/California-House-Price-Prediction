@@ -1,0 +1,3 @@
+1. The dataset given is actual data set used in doing the California House Price Prediction.
+2. It is directly available as a sklearn importable dataset, and hence it is import directly into the code.
+3. This Folder also contains the California Housing Training and Test data in separate folders. This obtained using the pandas dataframe.
